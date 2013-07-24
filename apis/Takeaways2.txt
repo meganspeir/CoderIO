@@ -1,0 +1,7 @@
+# Take aways from this tutorial: part 2
+
+1. Think of a class as a blueprint
+
+2. It’s important to log what we’re doing throughout our script writing. In case we catch an error somewhere, our logs can give us more helpful clues to where the error took place, or why it happened.
+
+3. Use argparse for command line arguments...can help you to "modularize" things outside of code

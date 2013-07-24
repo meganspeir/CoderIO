@@ -1,0 +1,47 @@
+# Take aways from this tutorial
+
+1. Understanding what your library does to/with an object using built in methods and functions (ex: csv-data is an iterator)
+
+2. Break up the "parts" of your input(ex. "Let's first address our column headers that came with the CSV file" So, headers receive the variable name fields)
+
+3. The general rule of ordering imports, in alphabetical order
+
+4. When importing, we can also give the object we’re importing whatever name we want because we’re lazy programmers. When we import matplotlib.pyplot as plt we’re essentially renaming the pyplot object
+
+5. Take Note:
+
+    A package is a collection of modules (or packages). A module is one python file, so a package is a collection of python files within the same directory.
+    A distributed collection of packages is can be referred to as a library.
+
+In case I ever want to make my own library.
+
+THINGS I WANT TO ACCOMPLISH:
+
+1. Finish New Coder Tutorials
+
+2. Read through the Python docs - find practical implementations
+
+3. Code challenge - MyProjectIs
+
+4. Pinterest code challenge
+
+5. Prospecting - finding job leads
+
+6. Algorithms class and homework
+
+7. Julython
+
+8. Open source
+
+9. New Project
+
+10. Read code on github, etc.
+
+
+
+
+Topics for that infamous talk I shall one day give.
+
+1. Marketing youru Python skills
+
+2.
